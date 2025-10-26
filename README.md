@@ -12,7 +12,6 @@ A full-stack personal finance management application built with Next.js, Supabas
   - Pie chart showing expenses by category
   - Line chart displaying balance over time
 - **Responsive Design**: Beautiful, mobile-friendly interface
-- **Dark Mode Support**: System-based theme switching
 - **Real-time Updates**: Instant UI updates after data changes
 
 ## Tech Stack
