@@ -249,6 +249,9 @@ Potential features to add:
 - Shared budgets for families
 - Mobile app (React Native)
 
+# Live application 
+https://personal-finance-ai-uraa.onrender.com
+
 ## Development Commands
 
 ```bash
